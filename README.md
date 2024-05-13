@@ -9,5 +9,7 @@ This hardware has been made open source to encourage others to learn about keybo
 
 If you would like to donate to this project and help us to produce more open source hardware like this you can buy us a coffee here: [https://ko-fi.com/c0ldbru](https://ko-fi.com/c0ldbru)
 
-rot13labs_h4ckb0ard_bootloader.hex MD5: 44d1c612cb676f6db758d45c3193f141
-rot13labs_h4ckb0ard_firmware.hex MD5: de870a95c049c45d13f595bd13aef1bb
+rot13labs_h4ckb0ard_bootloader-v1.0.hex MD5: 44d1c612cb676f6db758d45c3193f141
+rot13labs_h4ckb0ard_firmware-v1.0.hex MD5: de870a95c049c45d13f595bd13aef1bb
+
+Since our beginnings in 2020, c0ldbru / rot13labs have received and complied with 0 (zero) government requests for information.
